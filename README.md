@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm Joshita Bhattacharyya, a passionate Electronics and Communication Engineer with a strong interest in front-end web development.
 I love combining my engineering background with my coding skills to create intuitive and efficient web solutions.
-- **Portfolio**: [Your Portfolio Website](https://joshb-hub.github.io/portfolio/)
+- **Portfolio**: [Portfolio Website](https://joshb-hub.github.io/portfolio/)
 
 ## 🎓 Education
 
@@ -34,7 +34,7 @@ If you have a project in mind or just want to connect, feel free to reach out!
 
 ## 📫 How to Reach Me
 
-- **Email**: [your.email@gmail.com](mailto:joshbhatta7@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/joshita-bhattacharyya-3200a3267/)
+- **Email**: [email@gmail.com](mailto:joshbhatta7@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/joshita-bhattacharyya-3200a3267/)
 
 
