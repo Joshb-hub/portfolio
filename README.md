@@ -1,40 +1,112 @@
-# About Me
+# 👋 Hi, I'm Joshita Bhattacharyya
 
-👋 Hi there! I'm Joshita Bhattacharyya, a passionate Electronics and Communication Engineer with a strong interest in front-end web development.
-I love combining my engineering background with my coding skills to create intuitive and efficient web solutions.
-- **Portfolio**: [Portfolio Website](https://joshb-hub.github.io/portfolio/)
+### Frontend Developer • AI Enthusiast • Problem Solver
 
-## 🎓 Education
+I'm a B.Tech student in Electronics & Communication Engineering with a strong passion for building modern web applications and AI-powered solutions.
 
-I hold a degree in Electronics and Communication Engineering, where I developed a deep understanding of electronics, communication systems, and embedded systems.
-Over time, my curiosity led me to explore the world of web development, and I’ve been hooked ever since!
+My journey started with web development, where I developed responsive and user-friendly interfaces using React, JavaScript, and Tailwind CSS. Over time, my interest expanded into Artificial Intelligence, Retrieval-Augmented Generation (RAG), Data Analytics, and modern software development.
 
-## 💻 Skills
+I enjoy transforming ideas into practical applications that solve real-world problems while continuously improving my technical and problem-solving skills.
 
-- **Front-End Development**: HTML, CSS, JavaScript, React, Bootstrap
-- **CSS Preprocessors**: Sass
-- **Version Control**: Git, GitHub
-- **Tools**: Visual Studio Code
-- **Electronics & Communication**: Circuit Design, Signal Processing, Embedded Systems
+---
 
-## 🌱 Currently Learning
+## 🚀 What I Do
 
-I'm continuously expanding my skill set and currently focusing on improving my knowledge in **React** and **modern JavaScript frameworks**.
-I’m also exploring **full-stack development** to broaden my understanding of back-end technologies.
+### 🌐 Frontend Development
 
-## 💼 Professional Experience
+Building responsive and interactive web applications using:
 
-In my ongoing engineering student career, I have started working on various projects related to electronics design and communication systems.
-As a developing front-end developer, I am working on designing and building several web applications, from simple landing pages to complex, interactive user interfaces.
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
 
-## 🎯 What I’m Looking For
+---
 
-I'm always open to new challenges and opportunities to collaborate on exciting projects.
-If you have a project in mind or just want to connect, feel free to reach out!
+### 🤖 AI & Machine Learning
 
-## 📫 How to Reach Me
+Exploring intelligent systems through:
 
-- **Email**: [email@gmail.com](mailto:joshbhatta7@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/joshita-bhattacharyya-3200a3267/)
+* Retrieval-Augmented Generation (RAG)
+* LangChain
+* FAISS Vector Databases
+* Hugging Face Models
+* Prompt Engineering
+* Generative AI Applications
 
+---
 
+### 📊 Data Analytics
+
+Working with:
+
+* Power BI
+* DAX
+* Data Visualization
+* Dashboard Development
+* Business Intelligence
+
+---
+
+### 🧩 Problem Solving
+
+* 100+ DSA Problems Solved
+* Algorithmic Thinking
+* Logical Reasoning
+* Competitive Programming Fundamentals
+
+---
+
+## 💼 Experience
+
+### 🌐 Web Developer Intern
+
+Worked on responsive web applications, frontend development, and modern UI implementation using React and JavaScript.
+
+### 📊 Power BI Intern
+
+Built interactive dashboards, performed data transformation, and developed business intelligence solutions using Power BI and DAX.
+
+### 📈 Business Development Intern
+
+Collaborated on outreach, communication, and workflow optimization initiatives.
+
+---
+
+## 🏆 Achievements
+
+* Oracle AI Foundations Associate
+* Smart India Hackathon Participant
+* Multiple Full-Stack and Frontend Projects
+* AI-Powered Final Year Project (AegisRAG)
+* 100+ DSA Problems Solved
+
+---
+
+## 🌱 Currently Exploring
+
+* MERN Stack Development
+* Advanced React Patterns
+* Agentic AI Systems
+* System Design Fundamentals
+* Scalable Web Applications
+
+---
+
+## 🎯 Career Goal
+
+To build impactful software solutions that combine modern web technologies with Artificial Intelligence and contribute to innovative products that create real-world value.
+
+---
+
+## 📫 Let's Connect
+
+📧 Email: [joshitabhatta7@gmail.com](mailto:joshitabhatta7@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/joshita-bhattacharyya-3200a3267
+
+🌐 Portfolio: Add your latest portfolio link here
+
+💻 GitHub: github.com/Joshb-hub
